@@ -1,8 +1,8 @@
 {
   "name": "mixins-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A personal mixins library for React.",
-  "main": "mixins.js",
+  "main": "lib/mixins.js",
   "directories": {
     "test": "test"
   },
