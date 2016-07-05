@@ -1,0 +1,27 @@
+{
+  "name": "mixins-react",
+  "version": "0.1.0",
+  "description": "A mixins library for React.",
+  "main": "mixins.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenwuwu/mixins-react.git"
+  },
+  "keywords": [
+    "mixin",
+    "mixins",
+    "react"
+  ],
+  "author": "Wenwu Wu <wen.v.wu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wenwuwu/mixins-react/issues"
+  },
+  "homepage": "https://github.com/wenwuwu/mixins-react#readme"
+}
