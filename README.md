@@ -1,4 +1,4 @@
-package-name
+mixins-react
 =========
 
 [![NPM version][icon-nv]][link-nv]
@@ -15,18 +15,18 @@ package-name
 ## Installation 
 
 ```shell
-    npm install package-name
+    npm install mixins-react
 
     or 
 
-    jspm install npm:package-name
+    jspm install npm:mixins-react
 ```
 
 ## Usage
 
 ```js
 
-    var package-name = require('package-name');
+    var mixins-react = require('mixins-react');
 
 ```
 
@@ -44,14 +44,14 @@ package-name
 
 
 
-[icon-nv]: https://img.shields.io/npm/v/package-name.svg?style=flat
-[link-nv]: https://www.npmjs.com/package/package-name
-[icon-bs]: https://travis-ci.org/wenwuwu/package-name.svg?branch=master
-[link-bs]: https://travis-ci.org/wenwuwu/package-name
-[icon-ds]: https://img.shields.io/david/wenwuwu/package-name.svg?style=flat
-[link-ds]: https://david-dm.org/wenwuwu/package-name
-[icon-dds]: https://img.shields.io/david/dev/wenwuwu/package-name.svg?style=flat
-[link-dds]: https://david-dm.org/wenwuwu/package-name#info=devDependencies
+[icon-nv]: https://img.shields.io/npm/v/mixins-react.svg?style=flat
+[link-nv]: https://www.npmjs.com/package/mixins-react
+[icon-bs]: https://travis-ci.org/wenwuwu/mixins-react.svg?branch=master
+[link-bs]: https://travis-ci.org/wenwuwu/mixins-react
+[icon-ds]: https://img.shields.io/david/wenwuwu/mixins-react.svg?style=flat
+[link-ds]: https://david-dm.org/wenwuwu/mixins-react
+[icon-dds]: https://img.shields.io/david/dev/wenwuwu/mixins-react.svg?style=flat
+[link-dds]: https://david-dm.org/wenwuwu/mixins-react#info=devDependencies
 [icon-cc]: https://img.shields.io/badge/code-clean-orange.svg?style=flat
 [link-cc]: https://github.com/wenwuwu/code-convention-js 
 [icon-li]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
