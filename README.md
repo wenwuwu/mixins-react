@@ -26,7 +26,7 @@ mixins-react
 
 ```js
 
-    var mixins-react = require('mixins-react');
+    import { addListener } from 'mixins-react';
 
 ```
 
