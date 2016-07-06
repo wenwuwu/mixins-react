@@ -4,7 +4,8 @@
   "description": "A personal mixins library for React.",
   "main": "lib/mixins.js",
   "directories": {
-    "test": "test"
+    "test": "test",
+    "packages": "jspm_packages"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -27,5 +28,13 @@
   "devDependencies": {
     "eslint": "^3.0.1",
     "eslint-plugin-react": "^5.2.2"
+  },
+  "jspm": {
+    "directories": {
+      "test": "test"
+    },
+    "registry": "jspm",
+    "format": "es6",
+    "devDependencies": {}
   }
 }
